@@ -1,0 +1,5 @@
+name: ServerListHEX
+version: ${project.version}
+main: gg.gianluca.serverlisthex.ServerListHEX
+api-version: 1.13
+description: Adds HEX support in server list MOTD
